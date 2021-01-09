@@ -30,3 +30,5 @@ npm run dev
 ## Screenshoot
 
 [![@dyprast/nuxt-stisla](https://i.ibb.co/qnMv8fG/screenshot-localhost-3000-transaction-1610202960363.png)](#)
+[![@dyprast/nuxt-stisla](https://i.ibb.co/dtbzhhp/screenshot-localhost-3000-login-1610203001960.png)](#)
+[![@dyprast/nuxt-stisla](https://i.ibb.co/dgP5hzH/screenshot-localhost-3000-transaction-1610203052767.png)](#)
