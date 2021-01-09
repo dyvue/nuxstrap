@@ -12,6 +12,7 @@
 
 ```sh
 git clone git@github.com:dyvue/nuxstrap.git
+```
 
 📚 Install modules
 
