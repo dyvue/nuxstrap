@@ -1,20 +1,32 @@
-# nuxstrap
+# Nuxstrap
 
-## Build Setup
+<p>
+  <a href="#" target="_blank">
+    <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
+  </a>
+</p>
 
-```bash
-# install dependencies
-$ npm install
+## Installation
 
-# serve with hot reload at localhost:3000
-$ npm run dev
+🏷 Clone this repository
 
-# build for production and launch server
-$ npm run build
-$ npm run start
+```sh
+git clone git@github.com:dyvue/nuxstrap.git
 
-# generate static project
-$ npm run generate
+📚 Install modules
+
+```sh
+npm install
 ```
 
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+## Usage
+
+💡 Running application
+
+```sh
+npm run dev
+```
+
+## Screenshoot
+
+[![@dyprast/nuxt-stisla](https://i.ibb.co/qnMv8fG/screenshot-localhost-3000-transaction-1610202960363.png)](#)
