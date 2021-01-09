@@ -1,0 +1,36 @@
+#main-wrapper {
+  opacity: 1
+}
+.c-brand {
+  width: 48px;
+  display: none;
+}
+.c-brand-auth {
+  width: 300px;
+}
+.c-brand-hr {
+  width: 230px;
+  display: block;
+}
+.show.menu-toggle .c-brand {
+  display: block;
+}
+.show.menu-toggle .c-brand-hr {
+  display: none;
+}
+.c-mt-blank-page {
+  margin-top: 10rem;
+}
+.proof-of-payment {
+  width: 250px;
+  margin-left: 5px;
+}
+
+@media screen and (max-width: 1024px) {
+  .c-brand-hr {
+    display: none;
+  }
+  .c-brand {
+    display: block;
+  }
+}
